@@ -1,1 +1,1 @@
-web: python captcha_solver.py
+web: python recaptcha.py

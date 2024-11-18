@@ -1,0 +1,1 @@
+web: python captcha_solver.py
